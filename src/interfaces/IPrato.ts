@@ -5,6 +5,6 @@ export default interface IPrato {
   tag: string
   imagem: string
   descricao: string
-  restautante: number
+  restaurante: number
 
 }
